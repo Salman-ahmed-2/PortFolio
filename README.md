@@ -20,8 +20,10 @@
   <a href="#credits">Credits</a> •
   <a href="#contact">Contact</a>
 </p>
+<br><br>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](pre+(1).gif)
+
 
 ##  Key Features
  
