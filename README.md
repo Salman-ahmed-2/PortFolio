@@ -18,95 +18,124 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#contact">Contact</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## Key Features
+##  Key Features
+ 
+✅ Responsive Design – Works seamlessly on mobile, tablet, and desktop screens.
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+🖼️ Interactive UI – Clean, modern layout with hover animations and transitions.
+
+🧑‍💼 About Me Section – A quick overview of who I am and what I do.
+
+💡 Skills Showcase – Visually displays my tech stack using custom icons and badges.
+
+🗂️ Projects Gallery – Highlights selected projects with descriptions and GitHub links.
+
+📩 Contact Section – Easily reachable via Gmail with a clickable mailto button.
+
+🎯 Smooth Scrolling – Navigation links scroll smoothly to their respective sections.
+
+🌙 Dark Color Theme – Dark background with light text for a modern developer vibe.
+
+🧠 Lightweight Code – Minimal, clean HTML/CSS/JS without unnecessary libraries.
+
+🌐 Deployed via GitHub Pages – Live version available for public viewing.
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+
+
+If you want to run the portfolio website on your computer:
+
+Step 1: Clone the Repository
+```bash
+
+$ git clone https://github.com/salman-ahmed-2/portfolio
+```
+Step 2: Navigate to the Project Folder
+```bash
+
+$ cd portfolio
+```
+Step 3: Open in Browser
+Just open the welcome.html file in any modern web browser:
+
+Double-click the file
+OR
+
+Use VS Code Live Server extension
+OR
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
 
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
+xdg-open welcome.html     # Linux
+start welcome.html        # Windows
+open welcome.html         # macOS
 ```
 
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+Download as ZIP
+Go to the GitHub repository
 
-## Emailware
+Click on the green Code button
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+Select Download ZIP
+
+Extract the ZIP file on your computer and open welcome.html in your browser
+
+
+
 
 ## Credits
 
-This software uses the following open source packages:
+Special thanks to the following resources that helped in building this portfolio:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+💻 HTML, CSS, JavaScript – Core technologies for the structure, styling, and interactivity.
 
-## Related
+🎨 Google Fonts – Typography used across the site.
 
-[Try Web version of Markdownify](https://notepad.js.org/markdown-editor/)
+🎨 Font Awesome – Icons for skills, contact links, and UI.
 
-## Support
+🖼️ Unsplash / Pexels – Free stock images used (if applicable).
 
-If you like this project and think it has helped in any way, consider buying me a coffee!
+🎮 SFML (Simple and Fast Multimedia Library) – For linked C++ game projects.
 
-<a href="https://buymeacoffee.com/amitmerchant" target="_blank"><img src="app/img/bmc-button.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+⚙️ GitHub Pages – Hosting the live version of this portfolio.
 
-## You may also like...
+🧠 Inspiration – From various open-source portfolios on GitHub.
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
-## License
 
-MIT
 
 ---
+##  Contact
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+If you'd like to get in touch, feel free to reach out:
+
+- 📧 Email: [salmanahmed32121@gmail.com](mailto:salmanahmed32121@gmail.com)
+- 🌐 Portfolio: [https://github.com/salman-ahmed-2/portfolio](https://github.com/salman-ahmed-2/portfolio)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/salman-ahmed-khan-843240226)
