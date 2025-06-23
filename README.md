@@ -24,7 +24,7 @@
 <br><br>
 ![Preview](pre+(1).gif)
 
-## 🚀 Key Features
+##  Key Features
 
 - ✅ **Responsive Design** – Optimized for mobile, tablet, and desktop devices.
 - 🎨 **Interactive UI** – Modern layout with hover effects and transitions.
@@ -39,7 +39,7 @@
 
 ---
 
-## 📦 How to Use
+##  How to Use
 
 To run this portfolio locally on your system:
 
@@ -74,7 +74,7 @@ open welcome.html
 
 ---
 
-## 📥 Download
+##  Download
 
 To download the project manually:
 
@@ -85,7 +85,7 @@ To download the project manually:
 
 ---
 
-## 🙌 Credits
+##  Credits
 
 Special thanks to these amazing tools and resources:
 
@@ -98,7 +98,7 @@ Special thanks to these amazing tools and resources:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 Feel free to reach out for collaboration, freelancing, or just a chat!
 
