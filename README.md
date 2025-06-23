@@ -20,7 +20,8 @@
 </p>
 
 ---
-![Screenshot](assets/images/portfolio-preview.png)
+![Screenshot](main.png)
+<br><br>
 ![Preview](pre+(1).gif)
 
 ## 🚀 Key Features
