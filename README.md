@@ -93,7 +93,6 @@ Special thanks to these amazing tools and resources:
 - 🖋️ **Google Fonts** – Custom fonts for clean typography
 - ⭐ **Font Awesome** – Icons for UI and tech stack
 - 📸 **Unsplash / Pexels** – Free stock images used (if any)
-- 🎮 **SFML** – C++ multimedia projects showcased
 - 🚀 **GitHub Pages** – Free hosting platform
 - 💡 **Inspiration** – Derived from open-source developer portfolios
 
