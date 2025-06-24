@@ -5,7 +5,7 @@
 
 var typed = new Typed('#element', {
       
-      strings: ['Software Engineer','Web Developer','Coder','PubG King Player'],
+      strings: ['Software Engineer','Web Developer','Coder'],
       typeSpeed: 50,
       backSpeed: 20,
       loop:true
