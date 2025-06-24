@@ -19,10 +19,9 @@ nav {
   display: flex;
 
   color: aliceblue;
-  position: absolute;
-  height: 40px;
-  font-size: 24px;
-  margin-top: 37px;
+  position: relative;
+  height: 7vh;
+  margin-top: 3.7vh;
   width: 100%;
 }
 
@@ -31,93 +30,92 @@ nav .name {
   display: flex;
   width: 50%;
   justify-content: center;
-  left: -40px;
-  font-size: 33px;
-  top: 10px;
+  left: -4vw;
+  font-size: 2.6vw;
+  top: 1.5vh;
 }
 
 nav span {
   background-color: #a32b55;
   position: absolute;
-  width: 166px;
+  width: 11vw;
   height: 100%;
   z-index: -1;
-  top: 0px;
-  left: 260px;
-  border-radius: 20px;
+  top: 0;
+  left: 17vw;
+  border-radius: 2vh;
   transition: ease-in-out 0.5s;
 }
 
 nav ul {
   display: flex;
   position: relative;
-  left: 136px;
-  width: 38.5%;
-  height: 45px;
+  left: 7.6vw;
+  width: 38.5vw;
+  height: 5.7vh;
   align-items: center;
   justify-content: space-around;
   box-shadow: 0 3px 2px 0 rgb(3, 1, 26);
-  border-radius: 20px;
+  border-radius: 2vh;
   list-style: none;
-  padding: 0;
-  margin: 0;
 }
 
 nav ul li,
+nav ul li button,
 nav ul a {
   display: flex;
-
   list-style: none;
   text-decoration: none;
   color: aliceblue;
-}
-nav ul button {
+  font-size: 1.5vw;
   background: none;
   border: none;
-  color: aliceblue;
-  font-size: 24px;
 }
 
 nav ul li:nth-child(1):hover ~ span {
   left: 0px;
-  width: 120px;
+  width: 8vw;
 }
 
 nav ul li:nth-child(2):hover ~ span {
-  left: 120px;
-  width: 137px;
+  left: 8vw;
+  width: 9.2vw;
 }
 
 nav ul li:nth-child(3):hover ~ span {
-  left: 260px;
- 
+  left: 17vw;
+  width: 10.8vw;
 }
 nav ul li:nth-child(4):hover ~ span {
-  left: 425px;
-  width: 160px;
+  left: 28.5vw;
+  width: 10.08vw;
 }
-
-.head {
+main{
+  
+  height: 100vh;
+}
+main .head {
   position: relative;
   display: flex;
   justify-content: center;
   color: rgb(225, 18, 176);
-  font-size: 40px;
+  font-size: 2.2vw;
   font-weight: bolder;
-  top: 230px;
-  margin-bottom: 50px;
+  top: 23vh;
+  
   box-shadow: 0 0 20px purple, 0 0 40px rgb(249, 25, 249);
 }
 
-.grid {
+main .grid {
   display: grid;
-  gap: 20px;
-top: 60px;
-  width: 100%;
+  
+  gap: 2vh;
+top: 39vh;
+
   position: relative;
   justify-content: center;
-
-  margin-top: 250px;
+margin: 0 1vw 0 1vw;
+ 
 }
 
 .grid input {
@@ -130,10 +128,12 @@ top: 60px;
     #ff69b4a0
   );
   border: 2px solid white;
-  height: 40px;
+  height: 4vh;
   width: 20vw;
+  
+ 
   color: aliceblue;
-  font-size: 20px;
+  font-size: 2;
   font-weight: bold;
   padding: 1vh;
 }
@@ -143,12 +143,12 @@ top: 60px;
 }
 
 #a5 {
-  width: 41.7vw;
+  
   height: 16vh;
   grid-row: 3/5;
   grid-column: 1/3;
   color: aliceblue;
-   font-size: 20px;
+   font-size: 2vh;
    background: linear-gradient(
     145deg,
     #1a1a2e86,
@@ -166,10 +166,17 @@ top: 60px;
  
   color: aliceblue;
 }
-.sub {
-  position: absolute;
-  margin-top: 90px;
-  left: 690px;
+
+.sub{
+  width: 100vw;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.sub a {
+  position: relative;
+  top: 49vh;
+ 
   padding: 2vh;
   background: linear-gradient(
     145deg,
@@ -183,28 +190,35 @@ top: 60px;
   color: aliceblue;
   font-weight: bold;
   font-size: 2.5vh;
+  
   text-decoration: none;
+ 
 }
 
 footer {
-  margin-top: 310px;
-  height: 40vh;
+  margin-top: 10vh;
   border-top: solid 3px rgb(205, 45, 211);
   background: linear-gradient(45deg, #a32b55, #151d4e, #4a185c);
+  height: 60vh;
+  position: relative;
+  justify-content: center;
+  align-content: center;
 }
 
 footer .icon {
   display: flex;
   position: relative;
   justify-content: center;
-  margin: 50px 590px;
+  margin: 5vh 5.9vw;
+  width: 30vw;
 
+  left: 26vw;
   justify-content: space-around;
 }
 
 .icon i {
   color: aliceblue;
-  font-size: 34px;
+  font-size: 2.4vw;
 }
 i:hover {
   box-shadow: 0 0 20px purple, 0 0 40px rgb(249, 25, 249);
@@ -212,25 +226,28 @@ i:hover {
 }
 
 footer ul {
+  margin: 0vh 30vw 0vh 30vw;
+
+  top: 3vh;
+
   display: flex;
   position: relative;
-  left: 496px;
-  width: 33.5%;
-  height: 45px;
+
+  width: 34.5vw;
+
   align-items: center;
   justify-content: space-around;
-  font-weight: bold;
-  border-radius: 20px;
+
   list-style: none;
-  padding: 0;
-  top: 30px;
 }
 
 footer ul li,
 footer ul a {
-  display: flex;
+  justify-content: space-around;
 
+  display: flex;
   list-style: none;
   text-decoration: none;
   color: aliceblue;
+  font-size: 1.5vw;
 }
