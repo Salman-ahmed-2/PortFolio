@@ -1,7 +1,7 @@
 * {
   padding: 0px;
   margin: 0px;
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Playfair Display', serif;
 }
 body {
   border-bottom: solid 3px rgb(205, 45, 211);
@@ -183,6 +183,7 @@ main .right img {
   border: solid 4px rgb(136, 90, 180);
 
   box-shadow: 0 0 20px purple, 0 0 40px purple;
+  margin-right: 1vw;
 }
 
 project {
